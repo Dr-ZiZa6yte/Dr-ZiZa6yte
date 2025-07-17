@@ -1,6 +1,6 @@
 <a href="https://github.com/Dr-ZiZa6yte/Dr-ZiZa6yte">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dr-ZiZa6yte/Dr-ZiZa6yte/raw/refs/heads/main/dark-mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://github.com/Dr-ZiZa6yte/Dr-ZiZa6yte/raw/refs/heads/main/light-mode.svg">
   </picture>
 </a>
