@@ -1,2 +1,6 @@
-![gif](https://pa1.aminoapps.com/6697/5939509f918d746f8806480b9dd9e60fc2038e4e_hq.gif)
-## README.md
+<a href="https://github.com/Andrew6rant/Andrew6rant">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+</a>
